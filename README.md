@@ -6,6 +6,6 @@ Data Analysis using different tools added in the Edubridge resiporitatry.
 I added some project works and assigments in this resiporitory edubridge.
 
 # Contents
-1. Assignment.
+1. Assignments
 
 2. Project works
