@@ -18,7 +18,7 @@ This repository contains all the Projects(Group & Individual) of Data analysis p
      #### Objective:
      - Nursery management system is a software where a person can buy their necessary all kind of plants & fertilizers.
      - The user can also view the plant & fertilizer details. 
-     #### View the project
+     #### [View the project](https://github.com/PriyaModhave/EduBridge-Data-Analytics/tree/main/Projects/Group%20Projects/2.Nursary%20Managements%20System)
      
      #### 3.Pima Indians Diabetes Data Analysis
      Tools: Python 3.10.2, Jupyter Notebook
