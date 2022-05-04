@@ -25,7 +25,7 @@ This repository contains all the Projects(Group & Individual) of Data analysis p
      #### Objective:
      - This project is to analyze the Diabetes Data
      - Performed Exploratory Data Analysis on Diabetes Data using numpy, pandas & seaborn
-      #### View the project
+      #### [View the project](https://github.com/PriyaModhave/EduBridge-Data-Analytics/tree/main/Projects/Group%20Projects/3.Pima%20Indians%20Diabetes%20Database)
       
      #### 4.Covid Data analysis
      Tools: Python 3.10.2, Jupyter Notebook
