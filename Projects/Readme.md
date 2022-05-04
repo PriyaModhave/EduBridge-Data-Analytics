@@ -11,7 +11,7 @@ This repository contains all the Projects(Group & Individual) of Data analysis p
      - Analyzed the data by using the Data Analysis tool in Excel.
      - Performed Descriptive Statistical Analysis,Histogram,Sampling,Covariance,Correlation,F-test,T-test and ANOVA single factor test
      - Created reports through tables, charts, graphs
-     #### View the project
+     #### [View the project](https://github.com/PriyaModhave/EduBridge-Data-Analytics/tree/main/Projects/Group%20Projects/1.Excel%20Statistical%20Analysis)
     
      #### 2.Nursery Management System
      Tools: Python 3.10.2, Jupyter Notebook
