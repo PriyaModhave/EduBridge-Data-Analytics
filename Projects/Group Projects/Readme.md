@@ -1,5 +1,5 @@
 # Projects
-This repository contains all the Projects(Group & Individual) of Data analysis presented in the form of Jupyter Notebooks, Excel & R.
+This repository contains all the Group Projects of Data analysis presented in the form of Jupyter Notebooks, Excel & R.
 # Tools
 - Python : Python3, NumPy, Pandas, Seaborn, Matplotlib
 # Skills
