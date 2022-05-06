@@ -1,6 +1,6 @@
-## - List of Assignments of Data Analytics course conducted by EduBridge Learning.
+## List of Assignments of Data Analytics course conducted by EduBridge Learning.
 ## Content:
-- Excel
+- Statistics
 - Python 
 - R Programming
 - Machine Learning
