@@ -35,7 +35,7 @@ This repository contains all the Projects(Group & Individual) of Data analysis p
      - Data was analyzed through Descriptive statistics functions and visualized through graphs.
      #### [View the project](https://github.com/PriyaModhave/EduBridge-Data-Analytics/tree/main/Projects/Group%20Projects/4.EDA-Covid%20Analysis)
      
-      
+    - ### Individual Project:
 
 
 
