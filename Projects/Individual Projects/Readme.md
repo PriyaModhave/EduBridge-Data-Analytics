@@ -18,7 +18,7 @@ This repository contains all the Individual Projects of Data analysis presented 
 - Division
      
      
-  ### 3. [Dada Analysis & visualization-Cleaned Laptop data](https://github.com/PriyaModhave/EduBridge-Data-Analytics/tree/main/Projects/Individual%20Projects/03.Cleaned%20Laptop%20Data)
+ ### 3. [Dada Analysis & visualization-Cleaned Laptop data](https://github.com/PriyaModhave/EduBridge-Data-Analytics/tree/main/Projects/Individual%20Projects/03.Cleaned%20Laptop%20Data)
    #### Objective:
     
       
