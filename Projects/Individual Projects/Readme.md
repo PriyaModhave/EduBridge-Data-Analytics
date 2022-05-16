@@ -6,7 +6,7 @@ This repository contains all the Individual Projects of Data analysis presented 
 - Statistics,Python,Data Analysis,Data Visualization,R programming & Machine Learning
 # Projects Analysis:
  ### 1. [Python Quiz Game](https://github.com/PriyaModhave/EduBridge-Data-Analytics/tree/main/Projects/Individual%20Projects/01.Python%20Quiz%20Game)
-   #### Objective:
+   This program will maintain a list of questions & options. According to the answer given by the user it will check with the correct answers. After checking correct answers, it will display the result with score. If incorrect then there is negative marking in the game & if correct then the score will be incremented. At the end result will be displayed with final score.
      
 
   ### 2. [Simple Python Calculator](https://github.com/PriyaModhave/EduBridge-Data-Analytics/tree/main/Projects/Individual%20Projects/02.Simple%20Python%20Calculator)
