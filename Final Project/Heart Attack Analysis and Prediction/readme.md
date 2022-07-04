@@ -59,7 +59,7 @@ slp:slope
 8.CONCLUSION
 
 # APPROACH:
-The aim is to create a model that helps the users to apply machine learning approach to predict the satisfaction level. Here, the models used are
+THE AIM TO CREATE ODEL THAT HELP THE USER TO APPLY MACHINE LEARNING APPROACH TO PREDICT THE SATISFICATION LEVEL.HERE,THE MODEL USED ARE
 
 1.SUPPORT VECTOR MACHINE
 
