@@ -8,4 +8,4 @@ I added some project works and assigments in this resiporitory edubridge.
 # Contents
 1. [Assignments](https://github.com/PriyaModhave/EduBridge-Data-Analytics/tree/main/Assignments)
 2. [Final  Project](https://github.com/PriyaModhave/EduBridge-Data-Analytics/tree/main/Final%20Project)
-3. Project works
+3. [Project works](https://github.com/PriyaModhave/EduBridge-Data-Analytics/tree/main/Projects)
