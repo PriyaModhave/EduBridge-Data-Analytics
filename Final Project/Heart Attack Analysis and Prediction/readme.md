@@ -77,6 +77,8 @@ THE AIM TO CREATE ODEL THAT HELP THE USER TO APPLY MACHINE LEARNING APPROACH TO 
 
 ## CONCLUSION:
 In general, the models have good predictive values. The best guess among them is the BernoulliNB model, as it seems.
+![Screenshot 2022-07-04 125212](https://user-images.githubusercontent.com/98824713/177103143-dace434c-019c-4c54-b591-1f521196d70c.png)
+
 ![final result](https://user-images.githubusercontent.com/98824713/177098967-63d2853c-e42f-4ab9-a3af-bfe118126976.png)
 
 
