@@ -1,4 +1,5 @@
-##                     PROJECT NAME: HEART ATTACK ANALYSIS & PREDICTION
+##                     [PROJECT NAME: HEART ATTACK ANALYSIS & PREDICTION](https://github.com/PriyaModhave/EduBridge-Data-Analytics/blob/main/Final%20Project/Heart%20Attack%20Analysis%20and%20Prediction/HEART%20ATTACK%20ANALYSIS%20%26%20PREDICTION.ipynb)
+
 ### REFERED FROM KAGGLE:
 #### https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
 
