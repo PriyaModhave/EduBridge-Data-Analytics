@@ -17,10 +17,10 @@ caa: number of major vessels (0-3)
 
 cp : Chest Pain type chest pain type
 
-    Value 1: typical angina
-    Value 2: atypical angina
-    Value 3: non-anginal pain
-    Value 4: asymptomatic
+    Value 0: typical angina
+    Value 1: atypical angina
+    Value 2: non-anginal pain
+    Value 3: asymptomatic
 trtbps : resting blood pressure (in mm Hg)
 
 oldpeak : ST depression induced by exercise relative to rest
