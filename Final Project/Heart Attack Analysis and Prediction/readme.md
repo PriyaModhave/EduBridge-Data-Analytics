@@ -75,6 +75,8 @@ The aim is to create a model that helps the users to apply machine learning appr
 7.GRADIENT BOOSTING FOR CLASSIFICATION
 
 ## CONCLUSION:
+![final result](https://user-images.githubusercontent.com/98824713/177098967-63d2853c-e42f-4ab9-a3af-bfe118126976.png)
+
 
 
 
