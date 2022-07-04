@@ -76,6 +76,7 @@ THE AIM TO CREATE ODEL THAT HELP THE USER TO APPLY MACHINE LEARNING APPROACH TO 
 7.GRADIENT BOOSTING FOR CLASSIFICATION
 
 ## CONCLUSION:
+In general, the models have good predictive values. The best guess among them is the BernoulliNB model, as it seems.
 ![final result](https://user-images.githubusercontent.com/98824713/177098967-63d2853c-e42f-4ab9-a3af-bfe118126976.png)
 
 
