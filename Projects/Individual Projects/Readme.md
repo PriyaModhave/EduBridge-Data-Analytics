@@ -26,9 +26,20 @@ This repository contains all the Individual Projects of Data analysis presented 
 - Data was analyzed through Descriptive statistics functions and visualized through graphs
     
       
-  ### 4. [WordCloud-Wine dataset](https://github.com/PriyaModhave/EduBridge-Data-Analytics/tree/main/Projects/Individual%20Projects/04.WordCloud)
+ ### 4. [WordCloud-Wine dataset](https://github.com/PriyaModhave/EduBridge-Data-Analytics/tree/main/Projects/Individual%20Projects/04.WordCloud)
    #### Objective:
    - WordCloud is a technique to show which words are the most frequent among the given text.
    - Performed Exploratory Data Analysis using numpy, pandas, matplotlib, seaborn
+
+ ### 4. [Top Spotify Songs 2010-2019](https://github.com/PriyaModhave/EduBridge-Data-Analytics/tree/main/Projects/Individual%20Projects/Top%20Spotify%20Songs%202010-2019)
+   #### Objective:
+- The main objective of this project is to Top Spotify Songs 2010-2019.
+- Performed Exploratory Data Analysis using numpy, pandas, matplotlib, seaborn.
+- Data was extracted, cleansed, transformed and merged to get information.
+- Data was analyzed through Descriptive statistics functions and visualized through graphs.
+- Build a classification model by taking features and target values.
+- Split the data by creating training and test dataset.
+- Then evaluate the performance of various models.
+- Select the best model.
    
      
