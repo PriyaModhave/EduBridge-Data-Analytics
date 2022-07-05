@@ -31,7 +31,7 @@ This repository contains all the Individual Projects of Data analysis presented 
    - WordCloud is a technique to show which words are the most frequent among the given text.
    - Performed Exploratory Data Analysis using numpy, pandas, matplotlib, seaborn
 
- ### 5. [Top Spotify Songs 2010-2019](https://github.com/PriyaModhave/EduBridge-Data-Analytics/tree/main/Projects/Individual%20Projects/Top%20Spotify%20Songs%202010-2019)
+ ### 5. [Top Spotify Songs 2010-2019](https://github.com/PriyaModhave/EduBridge-Data-Analytics/tree/main/Projects/Individual%20Projects/05..Top%20Spotify%20Songs%202010-2019)
    #### Objective:
 - The main objective of this project is to Top Spotify Songs 2010-2019.
 - Performed Exploratory Data Analysis using numpy, pandas, matplotlib, seaborn.
