@@ -25,6 +25,8 @@ This repository contains all the Projects(Group & Individual) of Data analysis p
 
 4) [WordCloud](https://github.com/PriyaModhave/EduBridge-Data-Analytics/tree/main/Projects/Individual%20Projects/04.WordCloud)
 
+5) [Machine Learing-Top Spotify Songs 2010-2019](https://github.com/PriyaModhave/EduBridge-Data-Analytics/tree/main/Projects/Individual%20Projects/Top%20Spotify%20Songs%202010-2019)
+
 
 
 
