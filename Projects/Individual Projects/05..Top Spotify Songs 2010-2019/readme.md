@@ -1,9 +1,8 @@
 
-## [Top Spotify Songs 2010-2019]
+## Top Spotify Songs 2010-2019
 
 ## About our Data:
-For this initial analyses, we will be using a data set which was sourced from kaggle that contains the top spotify songs from 2010-2019.
-## Introduction:
+For this initial analyses, we will be using a data set which was sourced from kaggle that contains the top spotify songs from 2010-2019
  
  ## Process:
  - Import Libraries
