@@ -5,7 +5,25 @@ Data Analysis using different tools added in the Edubridge resiporitatry.
 
 I added some project works and assigments in this resiporitory edubridge.
 
-# Contents
+## Tools
+- Python : Python3 
+- NumPy 
+- Pandas
+- Seaborn, 
+- Matplotlib
+- Machine Learning: scikit-learn
+- Statistics
+- Excel
+- Tableau
+## Skills
+- Python
+- R
+- Machine Learning
+- Explotary Data Analysis
+- Data Visualization
+- Statistics
+
+## Contents
 1. [Assignments](https://github.com/PriyaModhave/EduBridge-Data-Analytics/tree/main/Assignments)
 2. [Final  Project](https://github.com/PriyaModhave/EduBridge-Data-Analytics/tree/main/Final%20Project)
 3. [Project works](https://github.com/PriyaModhave/EduBridge-Data-Analytics/tree/main/Projects)
