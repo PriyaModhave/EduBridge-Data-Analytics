@@ -27,5 +27,8 @@ This repository contains all the Group Projects of Data analysis presented in th
 - This project is to analyze the Covid Data 
 - Performed Exploratory Data Analysis using numpy, pandas, matplotlib & seaborn
 - Data was analyzed through Descriptive statistics functions and visualized through graphs.
-### 5.[R Programming-Superstore]()
+### 5.[R Programming-Superstore](https://github.com/PriyaModhave/EduBridge-Data-Analytics/tree/main/Projects/Group%20Projects/5.R%20Programming-Superstore)
+#### Objective:
+- This project is to analyze the superstore data using R programming
+- Performed Exploratory Data Analysis on superstore data using numpy, pandas & seaborn
      
