@@ -19,7 +19,7 @@ This repository contains all the Individual Projects of Data analysis presented 
      
      
  ### 3. [Dada Analysis & visualization-Cleaned Laptop data](https://github.com/PriyaModhave/EduBridge-Data-Analytics/tree/main/Projects/Individual%20Projects/03.Cleaned%20Laptop%20Data)
-    #### Objective:
+   #### Objective:
 - The main objective of this project is to analyze Cleaned Laptop data
 - Performed Exploratory Data Analysis using numpy, pandas, matplotlib, seaborn.
 - Data was extracted, cleansed, transformed and merged to get information.
@@ -28,5 +28,7 @@ This repository contains all the Individual Projects of Data analysis presented 
       
   ### 4. [WordCloud-Wine dataset](https://github.com/PriyaModhave/EduBridge-Data-Analytics/tree/main/Projects/Individual%20Projects/04.WordCloud)
    #### Objective:
+   - WordCloud is a technique to show which words are the most frequent among the given text.
+   - Performed Exploratory Data Analysis using numpy, pandas, matplotlib, seaborn
    
      
