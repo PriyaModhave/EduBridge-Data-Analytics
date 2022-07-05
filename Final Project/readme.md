@@ -2,6 +2,7 @@
 ![download-_1_](https://user-images.githubusercontent.com/98824713/177101770-8528f268-e63c-4f24-aba9-fa4d2ec73732.jpg)
 
 ## PROBLEM STATEMENT : 
+- Predict the Heart Attack based on the features provided.
 ## OBJECTIVE:
 - Performed Exploratory Data Analysis using numpy, pandas, matplotlib, seaborn.
 - Data was extracted, cleansed, transformed and merged to get information.
