@@ -3,10 +3,10 @@
 ### REFERED FROM KAGGLE:
 #### https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
 
-## PROBLEM STATEMENT
+#### PROBLEM STATEMENT
 Predict the Heart Attack based on the features provided.
 
-## DATA DICTIONARY
+#### DATA DICTIONARY
 Age : Age of the patient
 
 Sex : Sex of the patient
@@ -39,7 +39,7 @@ thalachh : maximum heart rate achieved
 slp:slope
 
 
-## PROJECT CONTENTS
+#### PROJECT CONTENTS
 0.DATA DICTIONARY
 
 1.IMPORT LIBRARIES
@@ -58,7 +58,7 @@ slp:slope
 
 8.CONCLUSION
 
-# APPROACH:
+#### APPROACH:
 THE AIM TO CREATE ODEL THAT HELP THE USER TO APPLY MACHINE LEARNING APPROACH TO PREDICT THE SATISFICATION LEVEL.HERE,THE MODEL USED ARE
 
 1.SUPPORT VECTOR MACHINE
@@ -75,7 +75,7 @@ THE AIM TO CREATE ODEL THAT HELP THE USER TO APPLY MACHINE LEARNING APPROACH TO 
 
 7.GRADIENT BOOSTING FOR CLASSIFICATION
 
-## CONCLUSION:
+#### CONCLUSION:
 In general, the models have good predictive values. The best guess among them is the BernoulliNB model, as it seems.
 ![Screenshot 2022-07-04 125212](https://user-images.githubusercontent.com/98824713/177103143-dace434c-019c-4c54-b591-1f521196d70c.png)
 
